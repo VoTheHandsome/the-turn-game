@@ -14,7 +14,7 @@ normalDamage = 5 #how much normal enemies damage
 additionaldamage = 3 #how much damage is added to enemies based on levels
 
 #Special values
-debugFeatures = 1 #debug features - add coins, skip attacks, etc
+debugFeatures = 0 #debug features - add coins, skip attacks, etc
 
 #Award values
 attused = 0 #How much time was attacking used
