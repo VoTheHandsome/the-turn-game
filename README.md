@@ -1,7 +1,7 @@
 # the-turn-game
 A basic RPG game, except you are limited to 50 actions (turns).
 
-The full game rules is in the python file itself, so I won't include it here.
+The full game rules are in the python file itself, so I won't include it here.
 
 This game is in the ALPHA state, there are still plenty of bugs and not enough features.
 I'm planning to fix most by the BETA stage.
