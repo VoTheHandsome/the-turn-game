@@ -58,7 +58,7 @@ Necessary after almost every match. For 5 coins, will
 make player's HP level 100.
 
 AWARDS
-There are 4 awards in the game.
+There are 5 awards in the game.
 Hunter - attack 20 or more times.
 Upgrader - upgrade all of your guns.
 Shopoholic - buy every gun.
